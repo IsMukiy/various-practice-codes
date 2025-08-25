@@ -1,8 +1,10 @@
 **语言/Language:**
+
 Simplified Chinese(only)
 
 
 **介绍**
+
 这是一个随机选择软件和方法的Python脚本。
 它可以随机选择一个软件和对应的方法，或者添加新的软件和方法。
 
@@ -29,6 +31,7 @@ Simplified Chinese(only)
 
 
 **函数解释**
+
 *add_software(software_name, modes_name):*
 software_name为软件名称(str),modes_name为方法名称列表(list)。
 正常情况下，其会添加软件和方法。(增加方法由add_mode()函数完成)
@@ -57,15 +60,19 @@ reason为原因(str,输入错误信息字符串即可),advice为推荐解决方�
 
 
 **代码逻辑**
+
 请参考注释。
 
 
 **文件储存路径**
+
 *Windows*:C:\Users\用户名\AppData\Local\choise_software\data.json
+
 *Linux & MacOS*:暂时不支持
 
 
 **其他信息**
+
 *最低Python版本*:3.6.0
 
 *依赖库*:random(用于随机数),json(用于json文件保存),os(用于文件操作)
