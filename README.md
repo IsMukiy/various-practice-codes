@@ -6,3 +6,8 @@
 > [代码](Python/不知道用啥就点这个/不知道用啥就点这个.py)
 > 
 > [项目README](Python/不知道用啥就点这个/README.md)
+
+#### [一些数学计算](Python/一些数学计算/)
+> [代码](Python/一些数学计算/一些数学计算.py)
+>
+> [项目README](Python/一些数学计算/README.md)
